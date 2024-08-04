@@ -1,15 +1,6 @@
 # kuenstliche-intelligenz
-KI-Projekt Anfang und weitere kleinere KI Aufgaben, welche ich mit Pablo Schneider zusammen bearbeite
+Kleinere KI Aufgaben, welche ich mit Pablo Schneider zusammen bearbeitete
 
-## Projekt
-Frage-Antwort-System, das aktuell in Arbeit ist
-
-Bisher gibt es:
-- Daten aus der Wikibase einlesen
-- Textverarbeitung
-- Fragenklassifikator
-
-## Kleinere Aufgaben
 ### Wikibase
 Nutzung von ElasticSearch, um Daten abzuspeichern und auszulesen
 
